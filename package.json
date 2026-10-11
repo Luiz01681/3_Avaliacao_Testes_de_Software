@@ -1,0 +1,25 @@
+{
+  "name": "3_avaliacao_testes_de_software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luiz01681/3_Avaliacao_Testes_de_Software.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Luiz01681/3_Avaliacao_Testes_de_Software/issues"
+  },
+  "homepage": "https://github.com/Luiz01681/3_Avaliacao_Testes_de_Software#readme",
+  "devDependencies": {
+    "cypress": "^16.1.1",
+    "typescript": "^7.0.2"
+  }
+}
